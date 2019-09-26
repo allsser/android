@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>홍길동</name>
+        <salary>3000000</salary>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>김철수</name>
+        <salary>4000000</salary>
+    </employee>
+</employees>

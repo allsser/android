@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">20190729</string>
+    <string name="button1">LinearLayout Example</string>
+    <string name="button2">Message Example</string>
+    <string name="button3">Image Example</string>
+    <string name="button4">Touch,Toast Example</string>
+
+    <string name="toastMsg">Activity Touch!</string>
+
+    <string name="Btn1">BUTTON1</string>
+    <string name="Btn2">BUTTON2</string>
+    <string name="Btn3">BUTTON3</string>
+    <string name="Btn4">BUTTON4</string>
+    <string name="Text1">TextView1</string>
+    <string name="Text2">TextView2</string>
+    <string name="Text3">TextView3</string>
+    <string name="Text4">TextView4</string>
+</resources>

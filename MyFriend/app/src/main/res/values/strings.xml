@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFriend</string>
+    <string name="name_1">오바마</string>
+    <string name="name_2">이기자</string>
+    <string name="city_1">워싱턴DC</string>
+    <string name="city_2">부산</string>
+    <string name="num_1">010-1000-0001</string>
+    <string name="num_2">010-9200-0002</string>
+</resources>

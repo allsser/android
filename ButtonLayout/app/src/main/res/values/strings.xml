@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonLayout</string>
+    <string name="Btn_1">버튼1</string>
+    <string name="Btn_2">버튼2</string>
+    <string name="Btn_3">버튼3</string>
+    <string name="Btn_4">버튼4</string>
+    <string name="Btn_5">버튼5</string>
+    <string name="Btn_6">버튼6</string>
+</resources>
